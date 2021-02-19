@@ -1,3 +1,5 @@
+![microbit](https://raw.githubusercontent.com/nagyfrantisek/microbit/main/resources/microbit.svg)
+
 Előredefiniált képek listája
 
 -   `Image.HEART`
